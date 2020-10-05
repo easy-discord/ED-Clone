@@ -1,0 +1,17 @@
+{
+    "bot": {
+        "token": "Your bot token",
+        "id": "642691783670890512",
+        "Prefix": "s!",
+        "Owner": {
+            "UserDiscrim_Name": "Seer#6054",
+            "id": "557218928368156674"
+        }
+    },
+  "server": {
+    "Invite": "https://discord.gg/7TK7Bbz"
+  },
+  "site": {
+    "Url": "https://ed-clone.glitch.me/"
+  }
+}
