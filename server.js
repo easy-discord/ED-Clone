@@ -1,5 +1,5 @@
 const express = require("express");
-const config = require('@dxy_seer/easydiscord/package.json');
+const config = require('./config.json');
 const app = express();
 const discordBot = require("./bot");
 app.use(require('./guides'));
